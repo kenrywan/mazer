@@ -1,0 +1,25 @@
+{
+    "name": "kenrywan/mazer",
+    "description": "Mazer - Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5",
+    "homepage": "https://zuramai.github.io/mazer/",
+    "keywords": [
+        "css",
+        "js",
+        "less",
+        "responsive",
+        "back-end",
+        "template",
+        "theme",
+        "web",
+        "admin"
+    ],
+    "authors": [
+        {
+            "name": "Zuramai"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/zuramai/mazer/issues"
+      }
+}
